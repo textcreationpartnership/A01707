@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
+
+1. ¶ A diſcription of Nortons falcehod of Yorke ſhyre, and of his fatall farewel.
 The fatal fine of Traitours loe:By Iuſtice due, deſeruyng ſoe.OF late (alas) the great vntruthOf Tra
 #####Back#####
-A discription of Nortons falcehod of Yorke shyre, and of his fatall farewel The fatal fine of traito
+¶ Imprinted at London by Alexander Lacie, for Henrie Kyrkeham, dwellyng at the ſigne of the blacke B
 **Types of content**
 
   * There are 226 **verse** lines!
